@@ -10,7 +10,7 @@ import { RouterLink } from 'vue-router'
 
 
             <h1>Github:</h1>
-            <a href="https://github.com/">Caetano Pedroso</a>
+            <a href="https://github.com/caetanopf">Caetano Pedroso</a>
             <h1>Tecnologias:</h1>
 
 
