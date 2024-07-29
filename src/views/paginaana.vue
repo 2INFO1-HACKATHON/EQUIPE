@@ -11,6 +11,8 @@ import { RouterLink } from 'vue-router'
 
             <h1>Github:</h1>
             <a href="https://github.com/anatimoteo">Ana Luiza</a>
+            <h1> <a href="www.linkedin.com/in/analutimoteo">LinkedIn</a></h1>
+            
             <h1>Tecnologias:</h1>
 
 
@@ -18,10 +20,11 @@ import { RouterLink } from 'vue-router'
 
 
             <div class="logocss">
-                 <img src="../assets/html5-brands-solid.svg" alt="">
-                 <img src="../assets/square-js-brands-solid.svg" alt="">
-                 <img src="../assets/vuejs-brands-solid.svg" alt="">
-                <img src="../assets/css3-alt-brands-solid.svg" alt="">
+                 <img src="../assets/fotohmtl5.svg" alt="">
+                 <img src="../assets/fotojs.svg" alt="">
+                 <img src="../assets/fotovue.svg" alt="">
+                <img src="../assets/fotocss3.svg" alt="">
+                 
 
 
             </div>
@@ -45,7 +48,7 @@ import { RouterLink } from 'vue-router'
 
 }
 
-
+ 
 div {
     display: flex;
     align-items: center;
